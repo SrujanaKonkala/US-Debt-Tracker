@@ -15,9 +15,12 @@ The analysis focused on answering three key strategic questions:
 The analysis utilized the following debt classifications:
 
 | Term | Definition |
-*| **Debt Held by the Public** | The portion of the US public debt held by individuals, corporations, foreign governments, and entities outside the US government. |
-*| **Intragovernmental Holdings** | The portion of the US public debt held by other US government agencies (e.g., Social Security Trust Fund). |
-*| **Total Public Debt Outstanding** | The sum of the Debt Held by the Public and Intragovernmental Holdings. |
+
+| **Debt Held by the Public** | The portion of the US public debt held by individuals, corporations, foreign governments, and entities outside the US government. |
+
+| **Intragovernmental Holdings** | The portion of the US public debt held by other US government agencies (e.g., Social Security Trust Fund). |
+
+| **Total Public Debt Outstanding** | The sum of the Debt Held by the Public and Intragovernmental Holdings. |
 
 ## Key Findings & Conclusions
 
